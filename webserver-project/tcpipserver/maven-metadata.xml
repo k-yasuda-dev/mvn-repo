@@ -3,11 +3,12 @@
   <groupId>webserver-project</groupId>
   <artifactId>tcpipserver</artifactId>
   <versioning>
-    <release>0.0.1</release>
+    <release>0.0.2</release>
     <versions>
       <version>0.0.1-SNAPSHOT</version>
       <version>0.0.1</version>
+      <version>0.0.2</version>
     </versions>
-    <lastUpdated>20190208153001</lastUpdated>
+    <lastUpdated>20190208160606</lastUpdated>
   </versioning>
 </metadata>
