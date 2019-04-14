@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>webapi-toolkit</groupId>
+  <artifactId>webapi-toolkit</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190414054340</lastUpdated>
+  </versioning>
+</metadata>

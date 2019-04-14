@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>webapi-toolkit</groupId>
+  <artifactId>webapi-toolkit</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190414.054340</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20190414054340</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.1-20190414.054340-1</value>
+        <updated>20190414054340</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20190414.054340-1</value>
+        <updated>20190414054340</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>jar-with-dependencies</classifier>
+        <extension>jar</extension>
+        <value>0.0.1-20190414.054340-1</value>
+        <updated>20190414054340</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
